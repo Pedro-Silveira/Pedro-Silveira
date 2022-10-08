@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C, Java, PHP + Laravel e Python.</strong>
+  🦄 Linguagens: <strong>C, CSS3, HTML5 + Bootstrap, Java, MySQL, PHP + Laravel e Python.</strong>
 </p>
 
 <p align="left">
