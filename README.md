@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=pedro-silveira&show_icons=true&title_color=FFFFFF&text_color=BEBFC1&icon_color=FFFFFF&bg_color=24292F&cache_seconds=2300">
 
 <p align="left"> 
   Pedro Silveira, <strong>Técnico em Informática</strong> desde 2020.<br>
