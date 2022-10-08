@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Pedro Silveira, <strong>Técnico em Informática</strong> desde 2020.<br>
@@ -10,5 +10,5 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Android Studio, NetBeans, PyCharm e Visual Studio Code.</strong>
+  💼 Ferramentas: <strong>Android Studio, NetBeans IDE, PyCharm e Visual Studio Code.</strong>
 </p>
