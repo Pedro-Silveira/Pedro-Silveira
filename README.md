@@ -5,8 +5,9 @@
   Terceiro-Sargento de Informática da FAB.
 </p>
 
+
 <p align="left">
-  🦄 Linguagens: <strong>C, CSS3, HTML5 + Bootstrap, Java, MySQL, PHP + Laravel e Python.</strong>
+  🦄 Linguagens: <strong>C, CSS, HTML + Bootstrap, Java, MySQL, PHP + Laravel e Python.</strong>
 </p>
 
 <p align="left">
