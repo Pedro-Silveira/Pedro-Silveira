@@ -1,4 +1,4 @@
-## Olá <picture><img src="https://i.imgur.com/QC52zc6.gif" width=30px></picture>, seja bem-vindo ao meu perfil! 
+## Olá <picture><img src="https://i.imgur.com/QC52zc6.gif" width=25px></picture>, seja bem-vindo ao meu perfil! 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <p align="left"> 
