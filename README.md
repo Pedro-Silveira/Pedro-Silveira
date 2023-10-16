@@ -1,4 +1,4 @@
-## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, seja bem-vindo ao meu perfil! 
+## Olá <img src="https://i.imgur.com/QC52zc6.gifv" width="30px" />, seja bem-vindo ao meu perfil! 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <p align="left"> 
