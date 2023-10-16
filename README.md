@@ -1,4 +1,5 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=pedro-silveira&show_icons=true&title_color=FFFFFF&text_color=BEBFC1&icon_color=FFFFFF&bg_color=24292F&cache_seconds=2300">
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <p align="left"> 
   <strong>Técnico em Informática</strong> desde 2020.<br>
