@@ -10,8 +10,8 @@
 <picture><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/></picture>
 
 <p align="left"> 
-  <strong>🎓 Técnico em Informática</strong> desde 2020.<br>
-  💻 Terceiro-Sargento de Informática da FAB.
+  <strong>Técnico em Informática</strong> desde 2020.<br>
+  Terceiro-Sargento de Informática da FAB.
 </p>
 
 
