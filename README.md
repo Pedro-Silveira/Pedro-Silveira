@@ -12,6 +12,12 @@
   Terceiro-Sargento de Informática da FAB.
 </p>
 <br>
-✍️ Linguagens: <strong>C, CSS, HTML + Bootstrap, Java, MySQL, PHP + Laravel e Python.</strong>
-🛠 Ferramentas: `AndroidStudio`, NetBeans IDE, PyCharm e Visual Studio Code.
-🤝 Freelance: Estou <strong>disponível</strong> para trabalhos freelance.
+<p align="left"> 
+  ✍️ Linguagens: <strong>C</strong>, <strong>CSS</strong>, <strong>HTML</strong> + <strong>Bootstrap</strong>, <strong>Java</strong>, <strong>MySQL</strong>, <strong>PHP</strong> + <strong>Laravel</strong> e <strong>Python</strong>.
+</p>
+<p align="left"> 
+  🛠 Ferramentas: `AndroidStudio`, NetBeans IDE, PyCharm e Visual Studio Code.
+</p>
+<p align="left"> 
+  🤝 Freelance: Estou <strong>disponível</strong> para trabalhos freelance.
+</p>
