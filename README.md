@@ -1,6 +1,6 @@
 <h1 align="center"><b>Oi <picture><img src="https://i.imgur.com/QC52zc6.gif" width=30px></picture>, eu sou o Pedro Silveira!</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=2D384C" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=Pedro-Silveira&color=2D384C" alt="watching_count" />
   <img src="https://img.shields.io/badge/Foco-Desenvolvimento WEB e Mobile-2D384C" />
   <img src="https://img.shields.io/badge/Linguagens-Português e Inglês-2D384C" />
 </p>
