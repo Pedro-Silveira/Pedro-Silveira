@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Languages-Portuguese & English-2D384C" />
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> Sobre mim
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **Sobre mim**
 <picture><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/></picture>
 
 
