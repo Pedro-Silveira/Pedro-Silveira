@@ -1,4 +1,3 @@
-`códigooo`
 <div align="center">
   <h1>Bem-vindo ao meu perfil!</h1>
   <img src="https://komarev.com/ghpvc/?username=Pedro-Silveira&color=2D384C" alt="watching_count" />
@@ -13,12 +12,6 @@
   Terceiro-Sargento de Informática da FAB.
 </p>
 <br>
-<p align="left">
-  ✍️ Linguagens: <strong>C, CSS, HTML + Bootstrap, Java, MySQL, PHP + Laravel e Python.</strong>
-</p>
-<p align="left">
-  🛠 Ferramentas: `Android Studio`, NetBeans IDE, PyCharm e Visual Studio Code.
-</p>
-<p align="left">
-  🤝 Freelance: Estou <strong>disponível</strong> para trabalhos freelance.
-</p>
+✍️ Linguagens: <strong>C, CSS, HTML + Bootstrap, Java, MySQL, PHP + Laravel e Python.</strong>
+🛠 Ferramentas: `Android Studio`, NetBeans IDE, PyCharm e Visual Studio Code.
+🤝 Freelance: Estou <strong>disponível</strong> para trabalhos freelance.
