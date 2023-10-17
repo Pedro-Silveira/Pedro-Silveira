@@ -1,9 +1,7 @@
 <h1 align="center"><b>Oi <picture><img src="https://i.imgur.com/QC52zc6.gif" width=30px></picture>, eu sou o Pedro Silveira!</h1>
 <p align="center">
-<img src="https://img.shields.io/badge/Idade-22 Anos-273045" />
-  <img src="https://img.shields.io/badge/Foco-Desenvolvimento WEB e Mobile-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento WEB e Mobile-2D384C" />
+  <img src="https://img.shields.io/badge/Linguagens-Português e Inglês-2D384C" />
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **Sobre mim**
