@@ -1,4 +1,5 @@
 <p align="center">
+  <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
   <img src="https://komarev.com/ghpvc/?username=Pedro-Silveira&color=2D384C" alt="watching_count" />
   <img src="https://img.shields.io/badge/Focus-WEB & Mobile-2D384C" />
   <img src="https://img.shields.io/badge/Languages-Portuguese & English-2D384C" />
