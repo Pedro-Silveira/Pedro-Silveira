@@ -1,3 +1,4 @@
+`códigooo`
 <div align="center">
   <h1>Bem-vindo ao meu perfil!</h1>
   <img src="https://komarev.com/ghpvc/?username=Pedro-Silveira&color=2D384C" alt="watching_count" />
@@ -21,4 +22,3 @@
 <p align="left">
   🤝 Freelance: Estou <strong>disponível</strong> para trabalhos freelance.
 </p>
-`a`
