@@ -11,7 +11,6 @@
   <strong>Técnico em Informática</strong> desde 2020.<br>
   Terceiro-Sargento de Informática da FAB.
 </p>
-<br>
 <p align="left">
   ✍️ Linguagens: <strong>C, CSS, HTML + Bootstrap, Java, MySQL, PHP + Laravel e Python.</strong>
 </p>
