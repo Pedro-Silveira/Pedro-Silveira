@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Opa <picture><img src = "https://i.imgur.com/QC52zc6.gif" width = 20px></picture>, bem-vindo ao meu perfil!</h1>
+  <h1>Opa <picture><img src = "https://i.imgur.com/QC52zc6.gif" width = 25px></picture>, bem-vindo ao meu perfil!</h1>
   <img src="https://komarev.com/ghpvc/?username=Pedro-Silveira&color=2D384C" alt="watching_count" />
   <img src="https://img.shields.io/badge/Focus-WEB & Mobile-2D384C" />
   <img src="https://img.shields.io/badge/Languages-Portuguese & English-2D384C" />
