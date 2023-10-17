@@ -16,9 +16,9 @@
   ✍️ Linguagens: <strong>C, CSS, HTML + Bootstrap, Java, MySQL, PHP + Laravel e Python.</strong>
 </p>
 <p align="left">
-  🛠 Ferramentas: ´Android Studio´, NetBeans IDE, PyCharm e Visual Studio Code.
+  🛠 Ferramentas: `Android Studio`, NetBeans IDE, PyCharm e Visual Studio Code.
 </p>
 <p align="left">
   🤝 Freelance: Estou <strong>disponível</strong> para trabalhos freelance.
 </p>
-´a´
+`a`
