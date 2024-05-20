@@ -13,7 +13,7 @@
 <p align="left"> 
   Full Stack Developer.<br>
   <strong>Computer Science Bachelor</strong> since 2024.<br>
-  <strong>IT Technician</strong> since 2018.
+  <strong>IT Technician</strong> since 2020.
 </p>
 <br>
 <p align="left"> 
